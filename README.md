@@ -1,23 +1,149 @@
-<h1 align="center">Hi 👋, I'm Appikonda Sai</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+# Hi, I'm Appikonda Sai 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sai-200516&label=Profile%20views&color=0e75b6&style=flat" alt="sai-200516" /> </p>
+### Full Stack Developer | SaaS Founder | Software Engineer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sai-200516" alt="sai-200516" /></a> </p>
+I’m a Full Stack Developer and the Founder & Director of **SyncGaze Private Limited**, passionate about building scalable web applications, SaaS platforms, and enterprise software.
 
-- 🔭 I’m currently working on **on Spirit Organisation Website** and **The Software Showroom Website**
+I enjoy turning ideas into production-ready products, working across backend architecture, APIs, databases, cloud infrastructure, and modern user interfaces.
 
-- 🌱 I’m currently learning **Java,Tailwind Css,php**
+- Building SaaS products at **[SyncGaze](https://syncgaze.in)**
+- Founder of **SPIRIT Organisation, LPU**
+- Developing scalable applications using Django, Python, MongoDB and React
+- Experienced in deploying and managing production applications on Azure and Linux
+- Open to interesting collaborations, engineering opportunities and innovative projects.
 
-- 👯 I’m looking to collaborate on **Live Projects ,Internships**
+🌐 **Portfolio:** [sai.syncgaze.in/projects](https://sai.syncgaze.in/projects)  
+💼 **LinkedIn:** [linkedin.com/in/sai2005](https://linkedin.com/in/sai2005)  
+📧 **Email:** [asaimay16@gmail.com](mailto:asaimay16@gmail.com)
 
-- 📫 How to reach me **asaimay16@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/sai2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sai2005" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/users/1150473624092934254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/1150473624092934254" height="30" width="40" /></a>
+## Tech Stack
+
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### Frameworks & Libraries
+<p>
+<img src="https://skillicons.dev/icons?i=django,react,nodejs,bootstrap,tailwind" />
+</p>
+
+### Databases & Infrastructure
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,oracle,redis,azure,linux,nginx" />
+</p>
+
+### Development Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## Featured Projects
+
+### SyncGaze – SaaS Ecosystem
+**Founder & Full Stack Developer**
+
+Building an ecosystem of business productivity products, including SyncGaze Mail and other workspace solutions.
+
+- Multi-tenant architecture and authentication systems.
+- Business account and mailbox management.
+- Email security, spam detection and role-based access control.
+- REST APIs and centralized administration.
+
+**Technologies:** Python, Django, MongoDB, Redis, Linux, REST APIs.
+
+### PJ Car Rentals – Business Management Platform
+**Full Stack Developer**
+
+Developed a production-ready car rental platform with booking workflows, inquiry management and vehicle showcase functionality.
+
+- Responsive and mobile-first interface.
+- Booking and customer inquiry workflows.
+- SEO and performance optimization.
+- Backend APIs and database management.
+
+**Technologies:** Django, Python, MongoDB, JavaScript, Nginx.
+
+### The Software Showroom – Enterprise SaaS Platform
+**Full Stack Developer**
+
+Built a software discovery platform with video streaming, custom authentication and recommendation systems.
+
+- Azure-powered video streaming.
+- Custom authentication and recommendation systems.
+- Pure PyMongo architecture without Django ORM.
+- Content management and secure video processing.
+
+**Technologies:** Python, MongoDB, JavaScript, Tailwind CSS, Azure.
+
+### SPIRIT – Student Management & Event Ecosystem
+**Founder & Platform Developer**
+
+Designed and developed a complete platform for student organization operations and event management.
+
+- Event registrations and payment integrations.
+- Attendance management and recruitment workflows.
+- Administrative dashboards and REST APIs.
+- Deployment, security and monitoring on Azure.
+
+**Technologies:** Django, Python, MongoDB, Tailwind CSS, Azure.
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sai-200516&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-200516&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sai-200516&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sai-200516&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## Achievements & Leadership
+
+- Founder & Director of **SyncGaze Private Limited**.
+- Founder of **SPIRIT Organisation, LPU**.
+- Developed and deployed 5+ production-grade platforms.
+- Delivered projects generating ₹6 lakh+ in revenue.
+- Organized CODE STORM, a 36-hour hackathon with 400+ participants.
+- Organized Dev Storm with 1,010+ participants.
+- Microsoft Learn Student Ambassador (MLSA).
+- Vice President, LPU Microsoft Achievers Club.
+- 4-Star Python rating on HackerRank.
+- 93 percentile in JEE Main; qualified for JEE Advanced.
+
+---
+
+## Let's Connect
+
+<p align="left">
+<a href="https://linkedin.com/in/sai2005">
+<img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+</a>
+<a href="mailto:asaimay16@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="40" />
+</a>
+<a href="https://github.com/sai-200516">
+<img src="https://skillicons.dev/icons?i=github" width="40" />
+</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sai-200516&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
+
+<p align="center">
+  <i>Building products, solving problems, and turning ideas into reality.</i>
+</p>
